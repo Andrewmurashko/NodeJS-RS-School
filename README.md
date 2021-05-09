@@ -1,6 +1,7 @@
 # NodeJS-RS-School
 
 This is RS School's NodeJS course
+
 Task 1. Caesar cipher CLI tool
 
 # Запуск приложения
