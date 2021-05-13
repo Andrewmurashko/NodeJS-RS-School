@@ -1,0 +1,22 @@
+{
+  "name": "caesar-cli-nodejs-rs",
+  "version": "1.0.0",
+  "description": "Caesar cipher CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewmurashko/NodeJS-RS-School.git"
+  },
+  "author": "Andrew Murashko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrewmurashko/NodeJS-RS-School/issues"
+  },
+  "homepage": "https://github.com/Andrewmurashko/NodeJS-RS-School#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
