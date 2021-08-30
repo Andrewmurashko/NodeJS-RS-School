@@ -1,4 +1,6 @@
-const shiftCaesar = (text, shift) => {
+const d = 1;
+
+const shiftCaesar  = (text, shift) => {
   if (shift < 0) {
     return shiftCaesar(text, shift + 26);
   }
